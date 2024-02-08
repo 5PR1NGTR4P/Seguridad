@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "d2c03bc6bda48756",
+    "type": "split",
+    "children": [
+      {
+        "id": "432e5ffa8e05a318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65aa43b3ec46978c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retos Bandit/Nivel 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac31b2ae7128feeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ff26bdb77afede",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f54978c3c8c48486",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b175870a34ff31c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d7b54fdd4855189",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5d1b11bedf97a08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5ac71d30f63ad9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0802652edc5e2b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "045085c1a655cd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f75e5ddd232d50e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Retos Bandit/Nivel 0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b8a9a4592c7a9d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Retos Bandit/Nivel 0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c5be0c6d2c7303c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "febaa78f629a9e4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Retos Bandit/Nivel 0.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "65aa43b3ec46978c",
+  "lastOpenFiles": [
+    "Retos Bandit/Plantilla.md",
+    "Retos Bandit/Nivel 0.md",
+    "Readme.md",
+    "Retos Bandit/Untitled.canvas",
+    "Retos Bandit"
+  ]
+}
