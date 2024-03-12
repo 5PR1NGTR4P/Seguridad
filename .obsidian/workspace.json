@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Hacking Web/Scavenger Hunt.md",
+                "file": "PicoCTF/Forensic/extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Hacking Web/Scavenger Hunt.md",
+                "file": "PicoCTF/Forensic/extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Hacking Web/Scavenger Hunt.md",
+                "file": "PicoCTF/Forensic/extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Hacking Web/Scavenger Hunt.md"
+                "file": "PicoCTF/Forensic/extensions.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "2ec7a94f116c1147",
   "lastOpenFiles": [
+    "PicoCTF/Forensic/Glory of the Garden.md",
+    "PicoCTF/Forensic/So Meta.md",
+    "PicoCTF/Forensic/What Lies Within.md",
+    "PicoCTF/Forensic/extensions.md",
     "PicoCTF/Plantilla Pico.md",
+    "PicoCTF/Forensic/shark on wire 1.md",
     "PicoCTF/Hacking Web/Scavenger Hunt.md",
+    "PicoCTF/Forensic",
     "PicoCTF/Hacking Web/Cookies.md",
     "PicoCTF/Hacking Web/GET aHEAD.md",
     "PicoCTF/Hacking Web/JaWT Scratchpad.md",
@@ -169,11 +175,6 @@
     "PicoCTF/Primer Parcial/Codebook.md",
     "PicoCTF/Primer Parcial/convertme.py.md",
     "PicoCTF/Primer Parcial/Based.md",
-    "PicoCTF/Primer Parcial/Bases.md",
-    "PicoCTF/Primer Parcial/runme.py.md",
-    "PicoCTF/Primer Parcial/PW Crack 3.md",
-    "PicoCTF/Primer Parcial/PW Crack 2.md",
-    "PicoCTF/Primer Parcial/PW Crack 1.md",
     "PicoCTF/Hacking Web",
     "PicoCTF/Primer Parcial",
     "PicoCTF",
