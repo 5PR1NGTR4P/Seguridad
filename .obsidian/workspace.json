@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "432e5ffa8e05a318",
+        "id": "aec126b1a907f2e3",
         "type": "tabs",
         "children": [
           {
-            "id": "2ec7a94f116c1147",
+            "id": "209d668fa9e6eb18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensic/extensions.md",
+                "file": "PicoCTF/Forensic/like1000.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Forensic/extensions.md",
+                "file": "PicoCTF/Forensic/like1000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Forensic/extensions.md",
+                "file": "PicoCTF/Forensic/like1000.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Forensic/extensions.md"
+                "file": "PicoCTF/Forensic/like1000.md"
               }
             }
           }
@@ -146,35 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ec7a94f116c1147",
+  "active": "209d668fa9e6eb18",
   "lastOpenFiles": [
-    "PicoCTF/Forensic/Glory of the Garden.md",
-    "PicoCTF/Forensic/So Meta.md",
-    "PicoCTF/Forensic/What Lies Within.md",
-    "PicoCTF/Forensic/extensions.md",
+    "PicoCTF/Forensic/shark on wire 2.md",
+    "PicoCTF/Forensic/like1000.md",
+    "PicoCTF/Forensic/c0rrupt.md",
     "PicoCTF/Plantilla Pico.md",
-    "PicoCTF/Forensic/shark on wire 1.md",
-    "PicoCTF/Hacking Web/Scavenger Hunt.md",
+    "PicoCTF/Forensic/WhitePages.md",
+    "PicoCTF/Forensic/m00nwalk.md",
+    "Retos Bandit/Bandit Level 18 → Level 19.md",
+    "Retos Bandit/Bandit Level 17 → Level 18.md",
+    "Retos Bandit/Bandit Level 16 → Level 17.md",
+    "Retos Bandit/Bandit Level 26 → Level 27.md",
+    "Retos Bandit/Bandit Level 25 → Level 26.md",
+    "Retos Bandit/Bandit Level 27 → Level 28.md",
+    "Retos Bandit/Bandit Level 29 → Level 30.md",
+    "Retos Bandit/Bandit Level 30 → Level 31.md",
+    "Retos Bandit/Bandit Level 28 → Level 29.md",
+    "Retos Bandit/Bandit Level 19 → Level 20.md",
+    "Retos Bandit/Bandit Level 15 → Level 16.md",
+    "Retos Bandit/Bandit Level 14 → Level 15.md",
+    "Retos Bandit/Bandit Level 13 → Level 14.md",
+    "Retos Bandit/Bandit Level 12 → Level 13.md",
+    "Retos Bandit/Bandit Level 11 → Level 12.md",
+    "Retos Bandit/Bandit Level 9 → Level 10.md",
+    "Retos Bandit/Bandit Level 8 → Level 9.md",
+    "Retos Bandit/Bandit Level 7 → Level 8.md",
+    "Retos Bandit/Bandit Level 5 → Level 6.md",
+    "Retos Bandit/Bandit Level 4 → Level 5.md",
+    "PicoCTF/Pico2024",
+    "Untitled",
     "PicoCTF/Forensic",
-    "PicoCTF/Hacking Web/Cookies.md",
-    "PicoCTF/Hacking Web/GET aHEAD.md",
-    "PicoCTF/Hacking Web/JaWT Scratchpad.md",
-    "PicoCTF/Hacking Web/Irish-Name-Repo 3.md",
-    "PicoCTF/Hacking Web/picobrowser.md",
-    "PicoCTF/Hacking Web/Irish-Name-Repo 2.md",
-    "PicoCTF/Hacking Web/Irish-Name-Repo 1.md",
-    "PicoCTF/Primer Parcial/plumbing.md",
-    "PicoCTF/Primer Parcial/Nice netcat....md",
-    "PicoCTF/Primer Parcial/Obedient Cat.md",
-    "PicoCTF/Primer Parcial/Magikarp Ground Mission.md",
-    "PicoCTF/Primer Parcial/Lets Warm Up.md",
-    "PicoCTF/Primer Parcial/Glitch Cat.md",
-    "PicoCTF/Primer Parcial/fixme2.py.md",
-    "PicoCTF/Primer Parcial/fixme1.py.md",
-    "PicoCTF/Primer Parcial/First Grep.md",
-    "PicoCTF/Primer Parcial/Codebook.md",
-    "PicoCTF/Primer Parcial/convertme.py.md",
-    "PicoCTF/Primer Parcial/Based.md",
     "PicoCTF/Hacking Web",
     "PicoCTF/Primer Parcial",
     "PicoCTF",
