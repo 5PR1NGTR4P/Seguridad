@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86fe8a072581d2ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Forensic/MacroHard WeakEdge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Forensic/like1000.md",
+                "file": "PicoCTF/Forensic/MacroHard WeakEdge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Forensic/like1000.md",
+                "file": "PicoCTF/Forensic/MacroHard WeakEdge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Forensic/like1000.md"
+                "file": "PicoCTF/Forensic/MacroHard WeakEdge.md"
               }
             }
           }
@@ -146,12 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "209d668fa9e6eb18",
+  "active": "86fe8a072581d2ad",
   "lastOpenFiles": [
+    "PicoCTF/Plantilla Pico.md",
+    "PicoCTF/Forensic/MacroHard WeakEdge.md",
+    "PicoCTF/Forensic/tunn3l v1s10n.md",
+    "PicoCTF/Forensic/Matryoshka doll.md",
+    "PicoCTF/Forensic/WebNet1.md",
+    "PicoCTF/Forensic/So Meta.md",
+    "PicoCTF/Forensic/WebNet0.md",
     "PicoCTF/Forensic/shark on wire 2.md",
     "PicoCTF/Forensic/like1000.md",
     "PicoCTF/Forensic/c0rrupt.md",
-    "PicoCTF/Plantilla Pico.md",
     "PicoCTF/Forensic/WhitePages.md",
     "PicoCTF/Forensic/m00nwalk.md",
     "Retos Bandit/Bandit Level 18 → Level 19.md",
@@ -168,12 +187,6 @@
     "Retos Bandit/Bandit Level 14 → Level 15.md",
     "Retos Bandit/Bandit Level 13 → Level 14.md",
     "Retos Bandit/Bandit Level 12 → Level 13.md",
-    "Retos Bandit/Bandit Level 11 → Level 12.md",
-    "Retos Bandit/Bandit Level 9 → Level 10.md",
-    "Retos Bandit/Bandit Level 8 → Level 9.md",
-    "Retos Bandit/Bandit Level 7 → Level 8.md",
-    "Retos Bandit/Bandit Level 5 → Level 6.md",
-    "Retos Bandit/Bandit Level 4 → Level 5.md",
     "PicoCTF/Pico2024",
     "Untitled",
     "PicoCTF/Forensic",
