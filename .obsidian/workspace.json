@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensic/MacroHard WeakEdge.md",
+                "file": "PicoCTF/Plantilla Pico.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Forensic/MacroHard WeakEdge.md",
+                "file": "PicoCTF/Plantilla Pico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Forensic/MacroHard WeakEdge.md",
+                "file": "PicoCTF/Plantilla Pico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Forensic/MacroHard WeakEdge.md"
+                "file": "PicoCTF/Plantilla Pico.md"
               }
             }
           }
@@ -161,32 +161,35 @@
   },
   "active": "86fe8a072581d2ad",
   "lastOpenFiles": [
+    "PicoCTF/Segundo Parcial/Forensics/St3g0.md",
+    "PicoCTF/Forensic/What Lies Within.md",
+    "PicoCTF/Forensic/WhitePages.md",
+    "PicoCTF/Forensic/c0rrupt.md",
     "PicoCTF/Plantilla Pico.md",
+    "PicoCTF/Segundo Parcial/Forensics/Redaction gone wrong.md",
+    "PicoCTF/Segundo Parcial/Forensics/Packets Primer.md",
+    "PicoCTF/Segundo Parcial/Forensics/Lookey here.md",
+    "PicoCTF/Segundo Parcial/Forensics/Enhance!.md",
+    "PicoCTF/Segundo Parcial/Forensics/Wireshark doo dooo do doo....md",
+    "PicoCTF/Segundo Parcial/Forensics/information.md",
+    "PicoCTF/Segundo Parcial/Web/SQL Direct.md",
+    "PicoCTF/Segundo Parcial/Forensics",
+    "PicoCTF/Segundo Parcial/Web/Secrets.md",
+    "PicoCTF/Segundo Parcial/Web/Roboto Sans.md",
+    "PicoCTF/Segundo Parcial/Web/Search source.md",
+    "PicoCTF/Segundo Parcial/Web/Power Cookie.md",
+    "PicoCTF/Segundo Parcial/Web/Forbidden Paths.md",
+    "PicoCTF/Segundo Parcial/Web/Local Authority.md",
+    "PicoCTF/Segundo Parcial/Web/Inspect HTML.md",
+    "PicoCTF/Segundo Parcial/Web/Includes.md",
     "PicoCTF/Forensic/MacroHard WeakEdge.md",
+    "PicoCTF/Segundo Parcial/Web",
+    "PicoCTF/Segundo Parcial",
     "PicoCTF/Forensic/tunn3l v1s10n.md",
     "PicoCTF/Forensic/Matryoshka doll.md",
     "PicoCTF/Forensic/WebNet1.md",
     "PicoCTF/Forensic/So Meta.md",
     "PicoCTF/Forensic/WebNet0.md",
-    "PicoCTF/Forensic/shark on wire 2.md",
-    "PicoCTF/Forensic/like1000.md",
-    "PicoCTF/Forensic/c0rrupt.md",
-    "PicoCTF/Forensic/WhitePages.md",
-    "PicoCTF/Forensic/m00nwalk.md",
-    "Retos Bandit/Bandit Level 18 → Level 19.md",
-    "Retos Bandit/Bandit Level 17 → Level 18.md",
-    "Retos Bandit/Bandit Level 16 → Level 17.md",
-    "Retos Bandit/Bandit Level 26 → Level 27.md",
-    "Retos Bandit/Bandit Level 25 → Level 26.md",
-    "Retos Bandit/Bandit Level 27 → Level 28.md",
-    "Retos Bandit/Bandit Level 29 → Level 30.md",
-    "Retos Bandit/Bandit Level 30 → Level 31.md",
-    "Retos Bandit/Bandit Level 28 → Level 29.md",
-    "Retos Bandit/Bandit Level 19 → Level 20.md",
-    "Retos Bandit/Bandit Level 15 → Level 16.md",
-    "Retos Bandit/Bandit Level 14 → Level 15.md",
-    "Retos Bandit/Bandit Level 13 → Level 14.md",
-    "Retos Bandit/Bandit Level 12 → Level 13.md",
     "PicoCTF/Pico2024",
     "Untitled",
     "PicoCTF/Forensic",
