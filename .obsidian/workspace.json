@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c48e4dbb0ffcc30e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Criptografia/waves over lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Plantilla Pico.md",
+                "file": "PicoCTF/Criptografia/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Plantilla Pico.md",
+                "file": "PicoCTF/Criptografia/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Plantilla Pico.md"
+                "file": "PicoCTF/Criptografia/waves over lambda.md"
               }
             }
           }
@@ -159,13 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86fe8a072581d2ad",
+  "active": "c48e4dbb0ffcc30e",
   "lastOpenFiles": [
+    "PicoCTF/Plantilla Pico.md",
+    "PicoCTF/Criptografia/waves over lambda.md",
+    "PicoCTF/Criptografia/Tapping.md",
+    "PicoCTF/Criptografia/la cifra de.md",
+    "PicoCTF/Criptografia/Easy1.md",
+    "PicoCTF/Criptografia/caesar.md",
+    "PicoCTF/Criptografia/13.md",
+    "PicoCTF/Criptografia/The Numbers.md",
+    "PicoCTF/Criptografia",
     "PicoCTF/Segundo Parcial/Forensics/St3g0.md",
     "PicoCTF/Forensic/What Lies Within.md",
     "PicoCTF/Forensic/WhitePages.md",
     "PicoCTF/Forensic/c0rrupt.md",
-    "PicoCTF/Plantilla Pico.md",
     "PicoCTF/Segundo Parcial/Forensics/Redaction gone wrong.md",
     "PicoCTF/Segundo Parcial/Forensics/Packets Primer.md",
     "PicoCTF/Segundo Parcial/Forensics/Lookey here.md",
@@ -181,22 +201,14 @@
     "PicoCTF/Segundo Parcial/Web/Forbidden Paths.md",
     "PicoCTF/Segundo Parcial/Web/Local Authority.md",
     "PicoCTF/Segundo Parcial/Web/Inspect HTML.md",
-    "PicoCTF/Segundo Parcial/Web/Includes.md",
-    "PicoCTF/Forensic/MacroHard WeakEdge.md",
     "PicoCTF/Segundo Parcial/Web",
     "PicoCTF/Segundo Parcial",
-    "PicoCTF/Forensic/tunn3l v1s10n.md",
-    "PicoCTF/Forensic/Matryoshka doll.md",
-    "PicoCTF/Forensic/WebNet1.md",
-    "PicoCTF/Forensic/So Meta.md",
-    "PicoCTF/Forensic/WebNet0.md",
     "PicoCTF/Pico2024",
     "Untitled",
     "PicoCTF/Forensic",
     "PicoCTF/Hacking Web",
     "PicoCTF/Primer Parcial",
     "PicoCTF",
-    "Retos Bandit/Untitled.canvas",
-    "Retos Bandit"
+    "Retos Bandit/Untitled.canvas"
   ]
 }
