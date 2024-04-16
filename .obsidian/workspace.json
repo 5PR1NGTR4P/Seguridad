@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Criptografia/b00tl3gRSA2.md",
+                "file": "PicoCTF/Criptografia/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Criptografia/b00tl3gRSA2.md",
+                "file": "PicoCTF/Criptografia/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Criptografia/b00tl3gRSA2.md",
+                "file": "PicoCTF/Criptografia/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Criptografia/b00tl3gRSA2.md"
+                "file": "PicoCTF/Criptografia/ReadMyCert.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "c48e4dbb0ffcc30e",
   "lastOpenFiles": [
+    "PicoCTF/Plantilla Pico.md",
+    "PicoCTF/Criptografia/ReadMyCert.md",
+    "PicoCTF/Criptografia/Pixelated.md",
+    "PicoCTF/Criptografia/HideToSee.md",
+    "PicoCTF/Criptografia/basic-mod1.md",
+    "PicoCTF/Criptografia/Mind your Ps and Qs.md",
+    "PicoCTF/Criptografia/rsa-pop-quiz.md",
     "PicoCTF/Criptografia/miniRSA.md",
     "PicoCTF/Criptografia/b00tl3gRSA2.md",
-    "PicoCTF/Plantilla Pico.md",
-    "PicoCTF/Criptografia/rsa-pop-quiz.md",
     "PicoCTF/Forensic/like1000.md",
     "PicoCTF/Criptografia/waves over lambda.md",
     "PicoCTF/Criptografia/Tapping.md",
@@ -170,12 +175,7 @@
     "PicoCTF/Segundo Parcial/Forensics/Lookey here.md",
     "PicoCTF/Segundo Parcial/Forensics/Enhance!.md",
     "PicoCTF/Segundo Parcial/Forensics/Wireshark doo dooo do doo....md",
-    "PicoCTF/Segundo Parcial/Forensics/information.md",
-    "PicoCTF/Segundo Parcial/Web/SQL Direct.md",
     "PicoCTF/Segundo Parcial/Forensics",
-    "PicoCTF/Segundo Parcial/Web/Secrets.md",
-    "PicoCTF/Segundo Parcial/Web/Roboto Sans.md",
-    "PicoCTF/Segundo Parcial/Web/Search source.md",
     "PicoCTF/Segundo Parcial/Web",
     "PicoCTF/Segundo Parcial",
     "PicoCTF/Pico2024",

@@ -195,5 +195,5 @@ d=llave privada= e mod inv tn
 
 c=m^p mod n - pow(m,e,n)
 d=e^d mod n - pow(e,d,n)
-
+m=c^d mod n
 ## Referencias
