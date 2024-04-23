@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reversing/vault-door-1.md",
+                "file": "PicoCTF/Reversing/asm1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Reversing/vault-door-1.md",
+                "file": "PicoCTF/Reversing/asm1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Reversing/vault-door-1.md",
+                "file": "PicoCTF/Reversing/asm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Reversing/vault-door-1.md"
+                "file": "PicoCTF/Reversing/asm1.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "c48e4dbb0ffcc30e",
   "lastOpenFiles": [
+    "PicoCTF/Reversing/asm3.md",
+    "PicoCTF/Reversing/asm2.md",
+    "PicoCTF/Reversing/asm1.md",
+    "PicoCTF/Plantilla Pico.md",
+    "PicoCTF/Reversing/vault-door-1.md",
     "PicoCTF/Reversing/vault-door-3.md",
     "PicoCTF/Reversing/vault-door-4.md",
     "PicoCTF/Reversing/vault-door-training.md",
     "PicoCTF/Reversing/vault-door-5.md",
-    "PicoCTF/Plantilla Pico.md",
-    "PicoCTF/Reversing/vault-door-1.md",
     "PicoCTF/Criptografia/ReadMyCert.md",
     "PicoCTF/Reversing",
     "PicoCTF/Criptografia/Pixelated.md",
@@ -173,9 +176,6 @@
     "PicoCTF/Criptografia/The Numbers.md",
     "PicoCTF/Criptografia",
     "PicoCTF/Segundo Parcial/Forensics/St3g0.md",
-    "PicoCTF/Forensic/What Lies Within.md",
-    "PicoCTF/Forensic/WhitePages.md",
-    "PicoCTF/Forensic/c0rrupt.md",
     "PicoCTF/Segundo Parcial/Forensics",
     "PicoCTF/Segundo Parcial/Web",
     "PicoCTF/Segundo Parcial",
