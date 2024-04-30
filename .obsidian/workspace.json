@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Reversing/asm1.md",
+                "file": "PicoCTF/Reversing/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Reversing/asm1.md",
+                "file": "PicoCTF/Reversing/Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Reversing/asm1.md",
+                "file": "PicoCTF/Reversing/Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Reversing/asm1.md"
+                "file": "PicoCTF/Reversing/Safe Opener 2.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "c48e4dbb0ffcc30e",
   "lastOpenFiles": [
+    "PicoCTF/Reversing/Need For Speed.md",
+    "PicoCTF/Reversing/Safe Opener 2.md",
+    "PicoCTF/Reversing/reverse_cipher.md",
+    "PicoCTF/Reversing/GDB Test Drive.md",
+    "PicoCTF/Plantilla Pico.md",
+    "PicoCTF/Reversing/asm1.md",
     "PicoCTF/Reversing/asm3.md",
     "PicoCTF/Reversing/asm2.md",
-    "PicoCTF/Reversing/asm1.md",
-    "PicoCTF/Plantilla Pico.md",
     "PicoCTF/Reversing/vault-door-1.md",
     "PicoCTF/Reversing/vault-door-3.md",
     "PicoCTF/Reversing/vault-door-4.md",
@@ -171,11 +175,7 @@
     "PicoCTF/Criptografia/Tapping.md",
     "PicoCTF/Criptografia/la cifra de.md",
     "PicoCTF/Criptografia/Easy1.md",
-    "PicoCTF/Criptografia/caesar.md",
-    "PicoCTF/Criptografia/13.md",
-    "PicoCTF/Criptografia/The Numbers.md",
     "PicoCTF/Criptografia",
-    "PicoCTF/Segundo Parcial/Forensics/St3g0.md",
     "PicoCTF/Segundo Parcial/Forensics",
     "PicoCTF/Segundo Parcial/Web",
     "PicoCTF/Segundo Parcial",
